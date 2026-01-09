@@ -1,3 +1,10 @@
+😄 Hello PRO
+info  - [你知道吗？] dev 模式下访问 /__umi 路由，可以发现很多有用的内部信息。
+info  - [plugin: ./node_modules/.pnpm/@umijs+preset-umi@4.6.22_@t_e0b66e27d28051ff5da810dfaa3e08a4/node_modules/@umijs/preset-umi/dist/features/utoopack/utoopack] Using @utoo/pack@1.1.20
+Using openapi Plugin
+info  - generate files
+info  - Preparing...
+
 Language: 🇺🇸 | [🇨🇳](./README.zh-CN.md) | [🇷🇺](./README.ru-RU.md) | [🇹🇷](./README.tr-TR.md) | [🇯🇵](./README.ja-JP.md) | [🇫🇷](./README.fr-FR.md) | [🇵🇹](./README.pt-BR.md) | [🇸🇦](./README.ar-DZ.md) | [🇪🇸](./README.es-ES.md)
 
 <h1 align="center">Ant Design Pro</h1>
